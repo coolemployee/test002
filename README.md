@@ -4,7 +4,7 @@ test002
 Test 002 for Implemica
 
 Runnable jar can be downloaded here: https://www.dropbox.com/s/lu2kwuyr3g5y5ji/Test002.jar
-Please, provide path/filename as command-line argument
+Please, provide path/filename as command-line argument.
 
 
 You are given a list of cities. Each direct connection between two cities has its transportation cost (an integer bigger than 0). The goal is to find the paths of minimum cost between pairs of cities. Assume that the cost of each path (which is the sum of costs of all direct connections belongning to this path) is at most 200000. The name of a city is a string containing characters a,...,z and is at most 10 characters long.2) 
