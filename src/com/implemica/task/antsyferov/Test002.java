@@ -21,7 +21,6 @@ public class Test002 {
     /**
      * @param args
      *            args[0] input filename
-     * @throws FileNotFoundException
      */
     public static void main(String[] args) {
 
